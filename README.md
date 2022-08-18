@@ -11,8 +11,8 @@
 Arrays and Strings
 ```
   Two Sum (DONE)
-  Longest Substring Without Repeating Characters
-  String to Integer (atoi)
+  Longest Substring Without Repeating Characters (DONE)
+  String to Integer (atoi) (DONE)
   Container With Most Water
   Integer to Roman
   Roman to Integer
